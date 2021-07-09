@@ -3,7 +3,7 @@
 </h1
 
 <div align="center">
-    <img alt="Curso iOS 11 Swift 4" title="Curso iOS 11 Swift 4" src="./images/logo.jpg" /> 
+    <img alt="Curso iOS 11 Swift 4" title="Curso iOS 11 Swift 4" src="./images/logo.jpg" width="100" height="100" /> 
 </div>
 
 <br>
