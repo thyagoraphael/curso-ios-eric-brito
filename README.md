@@ -2,9 +2,9 @@
     Curso Completo iOS 11 Swift 4 - Eric Brito
 </h1
 
-<h1 align="center">
+<div align="center">
     <img alt="Curso iOS 11 Swift 4" title="Curso iOS 11 Swift 4" src="./images/logo.jpg" /> 
-</h1>
+</div>
 
 <br>
 
