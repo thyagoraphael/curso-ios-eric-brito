@@ -28,6 +28,10 @@ O Curso visa tornar um desenvolvedor iOS através da criação de 20 apps e game
 
 - Link do Curso [link](https://www.udemy.com/course/curso-completo-de-desenvolvimento-ios11swift4/).
 
+## 🔖 Redes Sociais
+
+- [Linkedin](https://www.linkedin.com/mwlite/in/thyago-raphael-396b48215)
+- [Instagram](https://www.instagram.com/traphael.dev/)
 ---
 
 Feito com ♥  by Thyago Raphael :wave:
